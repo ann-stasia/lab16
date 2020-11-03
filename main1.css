@@ -1,0 +1,81 @@
+body{
+	font-family: 'Didact Gothic', sans-serif;
+	background-color: #ebe4e2;
+
+}
+
+	.headertext{
+		text-align: center;
+		font-size: 60px;
+		font-weight: bold;
+		color: #370101;
+	}
+
+
+	.container{
+		display: flex;
+		justify-content: space-around;
+
+	}
+
+	.container div{
+		padding: 1%;
+		
+	}
+
+	
+
+
+
+
+
+
+	.nazvnomera{
+		font-size: 30px;
+		font-weight: bold;
+		text-align: center;
+	}
+
+	.n1{
+		width: 480px;
+	}
+
+	.razmer{
+		font-size: 25px;
+		font-weight: bold;
+		margin-left: 5%;
+	}
+
+	.text{
+		font-size: 15px;
+	}
+
+	.footer{
+		display: flex;
+		justify-content: space-between;
+		margin-top: 10%;		
+	}
+
+
+	.cost{
+		font-size: 30px;
+		font-weight: bold;
+	}
+
+	.buttonB{
+	width: 140px;
+    height: 55px;
+    font-size: 15px;
+    background-color: #f19883;
+    border: 3px #f19883;
+    cursor: pointer;
+    display: inline-block;
+	}
+
+	.button-1:hover {
+    background-color: #370101;
+    color: #fff;
+   }
+
+
+
